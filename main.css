@@ -1,0 +1,23 @@
+#name1, #name2{
+    margin: 10px 50px 50px 50px;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+#outputText{
+    margin-top: 50px;
+    font-size: 25px;
+}
+#outputWrapper{
+    width: 200px;
+    height: 30px;
+    border: 1px solid black;
+}
+#output{
+    background-color: #ff0000;
+    width: 0;
+    height: 100%;
+    float: left;
+}
